@@ -1,0 +1,843 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.26100 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang.exe 
+      Build flags: 
+      Id flags: -Aa 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang.exe 
+      Build flags: 
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang.exe 
+      Build flags: 
+      Id flags: -Aa 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang.exe 
+      Build flags: 
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:1250 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:1250 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang++.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang++.exe 
+      Build flags: 
+      Id flags: --c++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang++.exe 
+      Build flags: 
+      Id flags: --ec++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang++.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang++.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang++.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang++.exe 
+      Build flags: 
+      Id flags: --c++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang++.exe 
+      Build flags: 
+      Id flags: --ec++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang++.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/LLVM/clang+llvm-20.1.1-x86_64-pc-windows-msvc/bin/clang++.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:1250 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:1250 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+...
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/clang.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+      
+      The C compiler identification is Clang, found in:
+        C:/PIM-Compiler/build/CMakeFiles/3.31.6/CompilerIdC/a.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/clang++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+      
+      The CXX compiler identification is Clang, found in:
+        C:/PIM-Compiler/build/CMakeFiles/3.31.6/CompilerIdCXX/a.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-59xo6p"
+      binary: "C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-59xo6p"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS-NOTFOUND"
+      CMAKE_C_FLAGS: ""
+      CMAKE_C_FLAGS_DEBUG: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+      VCPKG_INSTALLED_DIR: "C:/PIM-Compiler/build/vcpkg/installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/PIM-Compiler/build/vcpkg"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-59xo6p'
+        
+        Run Build Command(s): C:\\ProgramData\\chocolatey\\bin\\bin\\ninja.exe -v cmTC_85a02
+        [1/2] C:\\LLVM\\llvm-mingw-20230320-ucrt-x86_64\\bin\\clang.exe   -v -MD -MT CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles\\cmTC_85a02.dir\\CMakeCCompilerABI.c.obj.d -o CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCCompilerABI.c"
+        clang version 16.0.0 (https://github.com/llvm/llvm-project.git 08d094a0e457360ad8b94b017d2dc277e697ca76)
+        Target: x86_64-w64-windows-gnu
+        Thread model: posix
+        InstalledDir: C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin
+         (in-process)
+         "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/clang-16.exe" -cc1 -triple x86_64-w64-windows-gnu -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=none -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -mms-bitfields -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v -fcoverage-compilation-dir=C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-59xo6p -resource-dir C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16 -dependency-file "CMakeFiles\\\\cmTC_85a02.dir\\\\CMakeCCompilerABI.c.obj.d" -MT CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj -sys-header-deps -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/include -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/usr/include -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include -fdebug-compilation-dir=C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-59xo6p -ferror-limit 19 -fno-use-cxa-atexit -fgnuc-version=4.2.1 -exception-model=seh -faddrsig -o CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj -x c "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCCompilerABI.c"
+        clang -cc1 version 16.0.0 based upon LLVM 16.0.0 default target x86_64-w64-mingw32
+        ignoring nonexistent directory "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/include"
+        ignoring nonexistent directory "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/usr/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include\x0d
+         C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include\x0d
+        End of search list.\x0d
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\LLVM\\llvm-mingw-20230320-ucrt-x86_64\\bin\\clang.exe  -v -Wl,-v CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj -o cmTC_85a02.exe -Wl,--out-implib,libcmTC_85a02.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        clang version 16.0.0 (https://github.com/llvm/llvm-project.git 08d094a0e457360ad8b94b017d2dc277e697ca76)
+        Target: x86_64-w64-windows-gnu
+        Thread model: posix
+        InstalledDir: C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin
+         "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/ld.lld" -m i386pep -Bdynamic -o cmTC_85a02.exe C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crt2.o C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtbegin.o -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows -v CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_85a02.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a -lunwind -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a -lunwind -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtend.o\x0d
+        LLD 16.0.0 (compatible with GNU linkers)
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:182 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed C implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include]
+          add: [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include]
+        end of search list found
+        collapse include dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include]
+        collapse include dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include]
+        implicit include dirs: [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?))("|,| |$)]
+        ignore line: [Change Dir: 'C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-59xo6p']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:\\ProgramData\\chocolatey\\bin\\bin\\ninja.exe -v cmTC_85a02]
+        ignore line: [[1/2] C:\\LLVM\\llvm-mingw-20230320-ucrt-x86_64\\bin\\clang.exe   -v -MD -MT CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles\\cmTC_85a02.dir\\CMakeCCompilerABI.c.obj.d -o CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCCompilerABI.c"]
+        ignore line: [clang version 16.0.0 (https://github.com/llvm/llvm-project.git 08d094a0e457360ad8b94b017d2dc277e697ca76)]
+        ignore line: [Target: x86_64-w64-windows-gnu]
+        ignore line: [Thread model: posix]
+        ignore line: [InstalledDir: C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin]
+        ignore line: [ (in-process)]
+        ignore line: [ "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/clang-16.exe" -cc1 -triple x86_64-w64-windows-gnu -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=none -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -mms-bitfields -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v -fcoverage-compilation-dir=C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-59xo6p -resource-dir C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16 -dependency-file "CMakeFiles\\\\cmTC_85a02.dir\\\\CMakeCCompilerABI.c.obj.d" -MT CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj -sys-header-deps -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/include -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/usr/include -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include -fdebug-compilation-dir=C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-59xo6p -ferror-limit 19 -fno-use-cxa-atexit -fgnuc-version=4.2.1 -exception-model=seh -faddrsig -o CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj -x c "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCCompilerABI.c"]
+        ignore line: [clang -cc1 version 16.0.0 based upon LLVM 16.0.0 default target x86_64-w64-mingw32]
+        ignore line: [ignoring nonexistent directory "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/include"]
+        ignore line: [ignoring nonexistent directory "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/usr/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include\x0d]
+        ignore line: [ C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include\x0d]
+        ignore line: [End of search list.\x0d]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\LLVM\\llvm-mingw-20230320-ucrt-x86_64\\bin\\clang.exe  -v -Wl -v CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj -o cmTC_85a02.exe -Wl --out-implib libcmTC_85a02.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [clang version 16.0.0 (https://github.com/llvm/llvm-project.git 08d094a0e457360ad8b94b017d2dc277e697ca76)]
+        ignore line: [Target: x86_64-w64-windows-gnu]
+        ignore line: [Thread model: posix]
+        ignore line: [InstalledDir: C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin]
+        link line: [ "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/ld.lld" -m i386pep -Bdynamic -o cmTC_85a02.exe C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crt2.o C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtbegin.o -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows -v CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_85a02.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a -lunwind -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a -lunwind -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtend.o\x0d]
+          arg [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/ld.lld] ==> ignore
+          arg [-m] ==> ignore
+          arg [i386pep] ==> ignore
+          arg [-Bdynamic] ==> search dynamic
+          arg [-o] ==> ignore
+          arg [cmTC_85a02.exe] ==> ignore
+          arg [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crt2.o] ==> obj [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crt2.o]
+          arg [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtbegin.o] ==> obj [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtbegin.o]
+          arg [-LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib] ==> dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib]
+          arg [-LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib] ==> dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib]
+          arg [-LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib] ==> dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib]
+          arg [-LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows] ==> dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows]
+          arg [-v] ==> ignore
+          arg [CMakeFiles/cmTC_85a02.dir/CMakeCCompilerABI.c.obj] ==> ignore
+          arg [--out-implib] ==> ignore
+          arg [libcmTC_85a02.dll.a] ==> ignore
+          arg [--major-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [--minor-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a] ==> lib [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a]
+          arg [-lunwind] ==> lib [unwind]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-ladvapi32] ==> lib [advapi32]
+          arg [-lshell32] ==> lib [shell32]
+          arg [-luser32] ==> lib [user32]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a] ==> lib [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a]
+          arg [-lunwind] ==> lib [unwind]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtend.o] ==> obj [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtend.o]
+        linker tool for 'C': C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/ld.lld
+        remove lib [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a]
+        remove lib [msvcrt]
+        remove lib [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a]
+        remove lib [msvcrt]
+        collapse library dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib]
+        collapse library dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib]
+        collapse library dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows]
+        implicit libs: [mingw32;unwind;moldname;mingwex;advapi32;shell32;user32;kernel32;mingw32;unwind;moldname;mingwex;kernel32]
+        implicit objs: [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crt2.o;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtbegin.o;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtend.o]
+        implicit dirs: [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows]
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:255 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the C compiler's linker: "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/ld.lld" "-v"
+      LLD 16.0.0 (compatible with GNU linkers)
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-43n9v7"
+      binary: "C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-43n9v7"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS-NOTFOUND"
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: ""
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      VCPKG_INSTALLED_DIR: "C:/PIM-Compiler/build/vcpkg/installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/PIM-Compiler/build/vcpkg"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-43n9v7'
+        
+        Run Build Command(s): C:\\ProgramData\\chocolatey\\bin\\bin\\ninja.exe -v cmTC_2dd30
+        [1/2] C:\\LLVM\\llvm-mingw-20230320-ucrt-x86_64\\bin\\clang++.exe   -v -MD -MT CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_2dd30.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp"
+        clang version 16.0.0 (https://github.com/llvm/llvm-project.git 08d094a0e457360ad8b94b017d2dc277e697ca76)
+        Target: x86_64-w64-windows-gnu
+        Thread model: posix
+        InstalledDir: C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin
+         (in-process)
+         "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/clang-16.exe" -cc1 -triple x86_64-w64-windows-gnu -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=none -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -mms-bitfields -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v -fcoverage-compilation-dir=C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-43n9v7 -resource-dir C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16 -dependency-file "CMakeFiles\\\\cmTC_2dd30.dir\\\\CMakeCXXCompilerABI.cpp.obj.d" -MT CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj -sys-header-deps -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/include/c++/v1 -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include/c++/v1 -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/include -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/usr/include -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include -fdeprecated-macro -fdebug-compilation-dir=C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-43n9v7 -ferror-limit 19 -fno-use-cxa-atexit -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -exception-model=seh -faddrsig -o CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj -x c++ "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp"
+        clang -cc1 version 16.0.0 based upon LLVM 16.0.0 default target x86_64-w64-mingw32
+        ignoring nonexistent directory "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/include/c++/v1"
+        ignoring nonexistent directory "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/include"
+        ignoring nonexistent directory "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/usr/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include/c++/v1
+         C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include
+         C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include
+        End of search list.\x0d
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\LLVM\\llvm-mingw-20230320-ucrt-x86_64\\bin\\clang++.exe  -v -Wl,-v CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_2dd30.exe -Wl,--out-implib,libcmTC_2dd30.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        clang version 16.0.0 (https://github.com/llvm/llvm-project.git 08d094a0e457360ad8b94b017d2dc277e697ca76)
+        Target: x86_64-w64-windows-gnu
+        Thread model: posix
+        InstalledDir: C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin
+         "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/ld.lld" -m i386pep -Bdynamic -o cmTC_2dd30.exe C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crt2.o C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtbegin.o -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows -v CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_2dd30.dll.a --major-image-version 0 --minor-image-version 0 -lc++ -lmingw32 C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a -lunwind -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a -lunwind -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtend.o\x0d
+        LLD 16.0.0 (compatible with GNU linkers)
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:182 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include/c++/v1]
+          add: [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include]
+          add: [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include]
+        end of search list found
+        collapse include dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include/c++/v1] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include/c++/v1]
+        collapse include dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include]
+        collapse include dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include]
+        implicit include dirs: [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include/c++/v1;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?))("|,| |$)]
+        ignore line: [Change Dir: 'C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-43n9v7']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:\\ProgramData\\chocolatey\\bin\\bin\\ninja.exe -v cmTC_2dd30]
+        ignore line: [[1/2] C:\\LLVM\\llvm-mingw-20230320-ucrt-x86_64\\bin\\clang++.exe   -v -MD -MT CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_2dd30.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp"]
+        ignore line: [clang version 16.0.0 (https://github.com/llvm/llvm-project.git 08d094a0e457360ad8b94b017d2dc277e697ca76)]
+        ignore line: [Target: x86_64-w64-windows-gnu]
+        ignore line: [Thread model: posix]
+        ignore line: [InstalledDir: C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin]
+        ignore line: [ (in-process)]
+        ignore line: [ "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/clang-16.exe" -cc1 -triple x86_64-w64-windows-gnu -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=none -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -mms-bitfields -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v -fcoverage-compilation-dir=C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-43n9v7 -resource-dir C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16 -dependency-file "CMakeFiles\\\\cmTC_2dd30.dir\\\\CMakeCXXCompilerABI.cpp.obj.d" -MT CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj -sys-header-deps -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/include/c++/v1 -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include/c++/v1 -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/include -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/usr/include -internal-isystem C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include -fdeprecated-macro -fdebug-compilation-dir=C:/PIM-Compiler/build/CMakeFiles/CMakeScratch/TryCompile-43n9v7 -ferror-limit 19 -fno-use-cxa-atexit -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -exception-model=seh -faddrsig -o CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj -x c++ "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp"]
+        ignore line: [clang -cc1 version 16.0.0 based upon LLVM 16.0.0 default target x86_64-w64-mingw32]
+        ignore line: [ignoring nonexistent directory "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/include/c++/v1"]
+        ignore line: [ignoring nonexistent directory "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/include"]
+        ignore line: [ignoring nonexistent directory "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/usr/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include/c++/v1]
+        ignore line: [ C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/include]
+        ignore line: [ C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/include]
+        ignore line: [End of search list.\x0d]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\LLVM\\llvm-mingw-20230320-ucrt-x86_64\\bin\\clang++.exe  -v -Wl -v CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_2dd30.exe -Wl --out-implib libcmTC_2dd30.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [clang version 16.0.0 (https://github.com/llvm/llvm-project.git 08d094a0e457360ad8b94b017d2dc277e697ca76)]
+        ignore line: [Target: x86_64-w64-windows-gnu]
+        ignore line: [Thread model: posix]
+        ignore line: [InstalledDir: C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin]
+        link line: [ "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/ld.lld" -m i386pep -Bdynamic -o cmTC_2dd30.exe C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crt2.o C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtbegin.o -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib -LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows -v CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_2dd30.dll.a --major-image-version 0 --minor-image-version 0 -lc++ -lmingw32 C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a -lunwind -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a -lunwind -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtend.o\x0d]
+          arg [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/ld.lld] ==> ignore
+          arg [-m] ==> ignore
+          arg [i386pep] ==> ignore
+          arg [-Bdynamic] ==> search dynamic
+          arg [-o] ==> ignore
+          arg [cmTC_2dd30.exe] ==> ignore
+          arg [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crt2.o] ==> obj [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crt2.o]
+          arg [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtbegin.o] ==> obj [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtbegin.o]
+          arg [-LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib] ==> dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib]
+          arg [-LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib] ==> dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib]
+          arg [-LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib] ==> dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib]
+          arg [-LC:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows] ==> dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows]
+          arg [-v] ==> ignore
+          arg [CMakeFiles/cmTC_2dd30.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+          arg [--out-implib] ==> ignore
+          arg [libcmTC_2dd30.dll.a] ==> ignore
+          arg [--major-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [--minor-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [-lc++] ==> lib [c++]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a] ==> lib [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a]
+          arg [-lunwind] ==> lib [unwind]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-ladvapi32] ==> lib [advapi32]
+          arg [-lshell32] ==> lib [shell32]
+          arg [-luser32] ==> lib [user32]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a] ==> lib [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a]
+          arg [-lunwind] ==> lib [unwind]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtend.o] ==> obj [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtend.o]
+        linker tool for 'CXX': C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/ld.lld
+        remove lib [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a]
+        remove lib [msvcrt]
+        remove lib [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows/libclang_rt.builtins-x86_64.a]
+        remove lib [msvcrt]
+        collapse library dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib]
+        collapse library dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib]
+        collapse library dir [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows] ==> [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows]
+        implicit libs: [c++;mingw32;unwind;moldname;mingwex;advapi32;shell32;user32;kernel32;mingw32;unwind;moldname;mingwex;kernel32]
+        implicit objs: [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crt2.o;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtbegin.o;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib/crtend.o]
+        implicit dirs: [C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/lib;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/x86_64-w64-mingw32/mingw/lib;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib;C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/lib/clang/16/lib/windows]
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:255 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the CXX compiler's linker: "C:/LLVM/llvm-mingw-20230320-ucrt-x86_64/bin/ld.lld" "-v"
+      LLD 16.0.0 (compatible with GNU linkers)
+...
